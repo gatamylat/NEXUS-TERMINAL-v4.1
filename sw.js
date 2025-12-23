@@ -1,5 +1,5 @@
 // NEXUS TERMINAL - Service Worker v4.1
-const CACHE_NAME = 'nexus-v4.1';
+const CACHE_NAME = 'nexus-v4.5';
 const CACHE_FILES = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
